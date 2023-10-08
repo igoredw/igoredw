@@ -1,8 +1,8 @@
 # Olá! seja muito bem vindo ao meu Github 👋
 
   ## Sobre mim
-### Me chamo Igor Eduardo, tenho 22 anos e carioca da gema 
-### Além do mundo Tech, minhas outras paixões e hobbies são: 
+Me chamo Igor Eduardo, tenho 22 anos e carioca da gema 
+Além do mundo Tech, minhas outras paixões e hobbies são: 
   Piano/teclado 🎹
   
   Festivais de música 🎼
@@ -10,8 +10,8 @@
   Viagens & praias ✈️
 
   ## Formação e futuro profissional 🎓
-### Atualmente estou em formação para me tornar um Dev. Jr Fullstack .NET pelo SENAC RJ até novembro de 2023
-### Além de estar reingressando para a universidade no próximo ano (2024), dessa vez para a área de tecnologia
+Atualmente estou em formação para me tornar um Dev. Jr Fullstack .NET pelo SENAC RJ até novembro de 2023
+Além de estar reingressando para a universidade no próximo ano (2024), dessa vez para a área de tecnologia
 
 ## Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
