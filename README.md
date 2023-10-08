@@ -29,8 +29,8 @@ Envie para:
 
 [LinkedIn](https://www.linkedin.com/in/igoedw/)
 
-[Gmail](igoreduaraujo@gmail.com)
-
 [Instagram](https://www.instagram.com/igoedw/)
+
+Gmail: igoreduaraujo@gmail.com
 
 ***built with 💟 by Igor Araujo***
