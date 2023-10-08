@@ -3,6 +3,7 @@
   ## Sobre mim
 Me chamo Igor Eduardo, tenho 22 anos e carioca da gema 
 Além do mundo Tech, minhas outras paixões e hobbies são: 
+
   Piano/teclado 🎹
   
   Festivais de música 🎼
