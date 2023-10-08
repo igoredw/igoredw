@@ -27,7 +27,9 @@ Além de estar reingressando à universidade no próximo ano (2024), dessa vez p
 Gostaria de me enviar um feedback, melhorias, aprendizagem ou uma vaga😁?
 Envie para:
 [LinkedIn](https://www.linkedin.com/in/igoedw/)
+
 [Gmail](igoreduaraujo@gmail.com)
+
 [Instagram](https://www.instagram.com/igoedw/)
 
 ***built with 💟 by Igor Araujo***
