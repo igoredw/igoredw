@@ -5,11 +5,7 @@ Me chamo Igor Eduardo, tenho 22 anos e sou carioca da gema
 
 Além do mundo Tech, minhas outras paixões e hobbies são: 
 
-  Piano/teclado 🎹
-  
-  Festivais de música 🎼
-  
-  Viagens & praias ✈️
+  Piano/teclado 🎹 && Festivais de música 🎼
 
   ## Formação 🎓
 Atualmente estou em formação para me tornar um Dev. Jr Fullstack .NET pelo SENAC RJ até novembro de 2023
