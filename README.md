@@ -5,12 +5,13 @@ Me chamo Igor Eduardo, tenho 23 anos e sou carioca da gema
 
 Além do mundo Tech, minhas outras paixões e hobbies são: 
 
-  Piano/teclado 🎹 && Festivais de música 🎼
+  Piano, flauta & web design.
 
   ## Formação 🎓
-Atualmente estou em formação para me tornar um Dev. Jr Fullstack .NET pelo SENAC RJ até novembro de 2023
+Cursando ciência da computação na Universidade Estadual do Rio de Janeiro - UERJ
 
-Além de estar reingressando à universidade no próximo ano (2024), dessa vez para a área de tecnologia.
+## Formação Extracurricular🎓
+Formado em Fullstack .NET pelo projeto FORSOFT na instituição SENAC RJ em DEZ/2023
 
 ## Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
