@@ -12,6 +12,7 @@ Cursando ciência da computação na Universidade Estadual do Rio de Janeiro - U
 
 ## Formação Extracurricular🎓
 Fullstack .NET - Projeto FORSOFT na instituição SENAC RJ concluído em DEZ/2023
+
 AWS Re/Start graduate - Campinho digital & Espro concluído em JUL/2023
 
 ## Tecnologias:
