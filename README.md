@@ -11,7 +11,8 @@ Além do mundo Tech, minhas outras paixões e hobbies são:
 Cursando ciência da computação na Universidade Estadual do Rio de Janeiro - UERJ
 
 ## Formação Extracurricular🎓
-Formado em Fullstack .NET pelo projeto FORSOFT na instituição SENAC RJ em DEZ/2023
+Fullstack .NET - Projeto FORSOFT na instituição SENAC RJ concluído em DEZ/2023
+AWS Re/Start graduate - Campinho digital & Espro concluído em JUL/2023
 
 ## Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
