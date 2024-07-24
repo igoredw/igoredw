@@ -1,9 +1,9 @@
 # Olá! Seja muito bem vindo ao meu Github 👋
 
   ## Sobre mim 🙋‍♂️
-Me chamo Igor Eduardo, tenho 23 anos e sou carioca da gema
+Me chamo Igor Eduardo e sou um carioca querendo desbravar o mundo
 
-Além do mundo Tech, minhas outras paixões e hobbies são: 
+Além de tecnologia minhas outras paixões e hobbies são: 
 
   Piano, flauta & web design.
 
