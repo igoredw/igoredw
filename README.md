@@ -8,7 +8,7 @@ Além de tecnologia minhas outras paixões e hobbies são:
   Piano, flauta & web design.
 
   ## Formação 🎓
-Cursando ciência da computação na Universidade Estadual do Rio de Janeiro - UERJ
+Cursando ciência da computação na Universidade do Estado do Rio de Janeiro - UERJ
 
 ## Formação Extracurricular🎓
 Fullstack .NET - Projeto FORSOFT na instituição SENAC RJ concluído em DEZ/2023
