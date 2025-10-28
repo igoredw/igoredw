@@ -1,7 +1,7 @@
 # Olá! Seja muito bem vindo ao meu Github 👋
 
   ## Sobre mim 🙋‍♂️
-Me chamo Igor Eduardo e sou um carioca querendo desbravar o mundo
+Me chamo Igor Eduardo e sou um carioca querendo desbravar a costa brasileira :D 
 
 Além de tecnologia minhas outras paixões e hobbies são: 
 
