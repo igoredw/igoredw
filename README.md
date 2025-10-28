@@ -5,7 +5,7 @@ Me chamo Igor Eduardo e sou um carioca querendo desbravar a costa brasileira :D
 
 Além de tecnologia minhas outras paixões e hobbies são: 
 
-  Piano, flauta & web design.
+  Piano, natação, corrida e escolas de samba.
 
   ## Formação 🎓
 Cursando ciência da computação na Universidade do Estado do Rio de Janeiro - UERJ
@@ -13,7 +13,7 @@ Cursando ciência da computação na Universidade do Estado do Rio de Janeiro - 
 ## Formação Extracurricular🎓
 Fullstack .NET - Projeto FORSOFT na instituição SENAC RJ concluído em DEZ/2023
 
-AWS Re/Start graduate - Campinho digital & Espro concluído em JUL/2023
+AWS Re/Start - Escola da nuvem 2025.2
 
 ## Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
